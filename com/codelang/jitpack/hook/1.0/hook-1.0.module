@@ -1,0 +1,97 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.codelang.jitpack",
+    "module": "hook",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.21"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "hook-1.0.aar",
+          "url": "hook-1.0.aar",
+          "size": 37406,
+          "sha512": "e0ac6bc0b40a5b82a3e29cac97eac28ff977bdc9a723146ae50339b20b0c9d238d9c7681bc8912025b391989fddc7ba47d68515122d889d3cdd563292993b062",
+          "sha256": "be5253c8f79df2a3085a2e5b340cf41fa44d4577480d7774e7d8503ac2b96a99",
+          "sha1": "e04560e7c83daecbf45c274615edb21c59f439db",
+          "md5": "70ba6f7ab7740c2a13dc73f5e9f99bd1"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.21"
+          }
+        },
+        {
+          "group": "androidx.core",
+          "module": "core-ktx",
+          "version": {
+            "requires": "1.6.0"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.3.1"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.4.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "hook-1.0.aar",
+          "url": "hook-1.0.aar",
+          "size": 37406,
+          "sha512": "e0ac6bc0b40a5b82a3e29cac97eac28ff977bdc9a723146ae50339b20b0c9d238d9c7681bc8912025b391989fddc7ba47d68515122d889d3cdd563292993b062",
+          "sha256": "be5253c8f79df2a3085a2e5b340cf41fa44d4577480d7774e7d8503ac2b96a99",
+          "sha1": "e04560e7c83daecbf45c274615edb21c59f439db",
+          "md5": "70ba6f7ab7740c2a13dc73f5e9f99bd1"
+        }
+      ]
+    }
+  ]
+}
