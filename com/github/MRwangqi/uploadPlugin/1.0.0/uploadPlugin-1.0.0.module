@@ -1,0 +1,117 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "plugin",
+    "module": "uploadPlugin",
+    "version": "unspecified",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.localToProject": "public",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "com.android.tools.build",
+          "module": "gradle-api",
+          "version": {
+            "requires": "7.0.0"
+          }
+        },
+        {
+          "group": "com.android.tools.build",
+          "module": "gradle",
+          "version": {
+            "requires": "7.0.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.30"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "uploadPlugin-1.0.0.jar",
+          "url": "uploadPlugin-1.0.0.jar",
+          "size": 12790,
+          "sha512": "de12f26ec956941614ffbe4ea675261f5bc585d8a3b74b4e8c0568d64edb349d1e32e539d4cce11950989aed2a7166ee8ebf8dd566db2b9eeed61b5dab3c1249",
+          "sha256": "a9142d62d962d4fbaf086ea4c6544cf6dc352a844afe2abe983c10aaba2c950b",
+          "sha1": "3962b2168f3429832a9ba32645f3ad498bb68944",
+          "md5": "839287d55b8afb9784690fa8f8326769"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.localToProject": "public",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-gradle-plugin",
+          "version": {
+            "requires": "1.5.30"
+          }
+        },
+        {
+          "group": "com.android.tools.build",
+          "module": "gradle-api",
+          "version": {
+            "requires": "7.0.0"
+          }
+        },
+        {
+          "group": "com.android.tools.build",
+          "module": "gradle",
+          "version": {
+            "requires": "7.0.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.30"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "uploadPlugin-1.0.0.jar",
+          "url": "uploadPlugin-1.0.0.jar",
+          "size": 12790,
+          "sha512": "de12f26ec956941614ffbe4ea675261f5bc585d8a3b74b4e8c0568d64edb349d1e32e539d4cce11950989aed2a7166ee8ebf8dd566db2b9eeed61b5dab3c1249",
+          "sha256": "a9142d62d962d4fbaf086ea4c6544cf6dc352a844afe2abe983c10aaba2c950b",
+          "sha1": "3962b2168f3429832a9ba32645f3ad498bb68944",
+          "md5": "839287d55b8afb9784690fa8f8326769"
+        }
+      ]
+    }
+  ]
+}
