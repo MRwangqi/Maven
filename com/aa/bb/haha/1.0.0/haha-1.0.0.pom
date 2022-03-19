@@ -10,7 +10,7 @@
   <groupId>com.aa.bb</groupId>
   <artifactId>haha</artifactId>
   <version>1.0.0</version>
-  <packaging>aar</packaging>
+  <packaging>pom</packaging>
   <developers>
     <developer>
       <email>codelang29@gmail.com</email>
