@@ -52,11 +52,11 @@
         {
           "name": "uploadPlugin-1.0.0.jar",
           "url": "uploadPlugin-1.0.0.jar",
-          "size": 12790,
-          "sha512": "de12f26ec956941614ffbe4ea675261f5bc585d8a3b74b4e8c0568d64edb349d1e32e539d4cce11950989aed2a7166ee8ebf8dd566db2b9eeed61b5dab3c1249",
-          "sha256": "a9142d62d962d4fbaf086ea4c6544cf6dc352a844afe2abe983c10aaba2c950b",
-          "sha1": "3962b2168f3429832a9ba32645f3ad498bb68944",
-          "md5": "839287d55b8afb9784690fa8f8326769"
+          "size": 25324,
+          "sha512": "3993a7bfb3e7367f013bd5894a69ab2a656a144a8f052e166a0bca87cd7e8d2224f56bbe4e16f46e575f5c4ee6af74da81fd5daf11a1ab11d7002bb489ebc8d0",
+          "sha256": "35708d0071907cdce39e19a74b32cf40a176ded5cd4f4c665f2ce3679e2bc5bb",
+          "sha1": "808c6b0b4e73a3134f10f7503f416b81f8eac36c",
+          "md5": "2478812aa41f72c0526c65f2063b302d"
         }
       ]
     },
@@ -77,6 +77,13 @@
           "module": "kotlin-gradle-plugin",
           "version": {
             "requires": "1.5.30"
+          }
+        },
+        {
+          "group": "org.eclipse.jgit",
+          "module": "org.eclipse.jgit",
+          "version": {
+            "requires": "6.1.0.202203080745-r"
           }
         },
         {
@@ -105,11 +112,11 @@
         {
           "name": "uploadPlugin-1.0.0.jar",
           "url": "uploadPlugin-1.0.0.jar",
-          "size": 12790,
-          "sha512": "de12f26ec956941614ffbe4ea675261f5bc585d8a3b74b4e8c0568d64edb349d1e32e539d4cce11950989aed2a7166ee8ebf8dd566db2b9eeed61b5dab3c1249",
-          "sha256": "a9142d62d962d4fbaf086ea4c6544cf6dc352a844afe2abe983c10aaba2c950b",
-          "sha1": "3962b2168f3429832a9ba32645f3ad498bb68944",
-          "md5": "839287d55b8afb9784690fa8f8326769"
+          "size": 25324,
+          "sha512": "3993a7bfb3e7367f013bd5894a69ab2a656a144a8f052e166a0bca87cd7e8d2224f56bbe4e16f46e575f5c4ee6af74da81fd5daf11a1ab11d7002bb489ebc8d0",
+          "sha256": "35708d0071907cdce39e19a74b32cf40a176ded5cd4f4c665f2ce3679e2bc5bb",
+          "sha1": "808c6b0b4e73a3134f10f7503f416b81f8eac36c",
+          "md5": "2478812aa41f72c0526c65f2063b302d"
         }
       ]
     }
