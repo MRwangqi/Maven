@@ -1,0 +1,82 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.aa.bb",
+    "module": "java_lib",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.localToProject": "public",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.30"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "java_lib-1.0.0.jar",
+          "url": "java_lib-1.0.0.jar",
+          "size": 1232,
+          "sha512": "a2b4237c3a180958695524f603262c2d60a15ee424f6d3cd5c6ff96993a5fe39432fbbfa24cf47427af5ed7a425a3f530e0bb22047e66783b8c4f166ee3e72ff",
+          "sha256": "4905d68d0f78ee097d0695e93fb173f65bf7e29cd02c49f984510ced26b11887",
+          "sha1": "00bb3ded6d55fe8417120a3114472ce6ebcf5563",
+          "md5": "dc4379e4883d6546f6adb69711c10311"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.localToProject": "public",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.30"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "java_lib-1.0.0.jar",
+          "url": "java_lib-1.0.0.jar",
+          "size": 1232,
+          "sha512": "a2b4237c3a180958695524f603262c2d60a15ee424f6d3cd5c6ff96993a5fe39432fbbfa24cf47427af5ed7a425a3f530e0bb22047e66783b8c4f166ee3e72ff",
+          "sha256": "4905d68d0f78ee097d0695e93fb173f65bf7e29cd02c49f984510ced26b11887",
+          "sha1": "00bb3ded6d55fe8417120a3114472ce6ebcf5563",
+          "md5": "dc4379e4883d6546f6adb69711c10311"
+        }
+      ]
+    }
+  ]
+}
