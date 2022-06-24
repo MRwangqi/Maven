@@ -42,11 +42,11 @@
         {
           "name": "android-lib-1.0.0.aar",
           "url": "android-lib-1.0.0.aar",
-          "size": 33458,
-          "sha512": "00d05c081eb6accce5476b6bfbb8cf7d40bdfc7840a0e87e34faf44cd56c78e74b685c7660d97326ce0ad6453ca3118b175ce65decf633c3d598f2368538ef2e",
-          "sha256": "a0f91ccbb19f99aad71595f141c98ce4d527fc9ace61523c945f05505822f687",
-          "sha1": "ef0fe408b6e2b34d2f4ec608ca5106cf2b71ff40",
-          "md5": "79d6c2789e6bec96f673b1ef3333b4d4"
+          "size": 31037,
+          "sha512": "530bc197a2d9782198011c21ec05b16591c6930e5a57dea8d5ae63add9c8fc62467e7c18fe01be394527fb730e5ab29da9e3b109fb607c8d734b8b3d6c95e065",
+          "sha256": "a08cf0a9d929504a962ba940dcbe55af2251400decbe0d38d5b49a6eba9f178c",
+          "sha1": "e23c0377e1db74ad47f76870a68863fb187bb0b2",
+          "md5": "72fbb86fd598d789dfa0def6de7538e1"
         }
       ]
     },
@@ -134,11 +134,11 @@
         {
           "name": "android-lib-1.0.0.aar",
           "url": "android-lib-1.0.0.aar",
-          "size": 33458,
-          "sha512": "00d05c081eb6accce5476b6bfbb8cf7d40bdfc7840a0e87e34faf44cd56c78e74b685c7660d97326ce0ad6453ca3118b175ce65decf633c3d598f2368538ef2e",
-          "sha256": "a0f91ccbb19f99aad71595f141c98ce4d527fc9ace61523c945f05505822f687",
-          "sha1": "ef0fe408b6e2b34d2f4ec608ca5106cf2b71ff40",
-          "md5": "79d6c2789e6bec96f673b1ef3333b4d4"
+          "size": 31037,
+          "sha512": "530bc197a2d9782198011c21ec05b16591c6930e5a57dea8d5ae63add9c8fc62467e7c18fe01be394527fb730e5ab29da9e3b109fb607c8d734b8b3d6c95e065",
+          "sha256": "a08cf0a9d929504a962ba940dcbe55af2251400decbe0d38d5b49a6eba9f178c",
+          "sha1": "e23c0377e1db74ad47f76870a68863fb187bb0b2",
+          "md5": "72fbb86fd598d789dfa0def6de7538e1"
         }
       ]
     }
