@@ -1,0 +1,124 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "plugin",
+    "module": "classAnalysis",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.localToProject": "public",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "com.android.tools.build",
+          "module": "gradle-api",
+          "version": {
+            "requires": "7.0.0"
+          }
+        },
+        {
+          "group": "com.android.tools.build",
+          "module": "gradle",
+          "version": {
+            "requires": "7.0.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.30"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "classAnalysis-1.0.0.jar",
+          "url": "classAnalysis-1.0.0.jar",
+          "size": 249881,
+          "sha512": "11f3423d01294d4661424a4ca4ca027938ed67a50bc1ccc578952e1b6e1582ed8086f8b70bf7d95c51bf8c056f079c95ea79f1937cf01bda80cae3e5fb2482ad",
+          "sha256": "81e43c09f7e61679da8b269acf7ae72354b5914d1f9db9bbd5fd4a12283507b3",
+          "sha1": "c15df6fd6fd3264bd9c632577ba3c248052112e1",
+          "md5": "b62a98ed607c537031de021adc8526b1"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.localToProject": "public",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-gradle-plugin",
+          "version": {
+            "requires": "1.5.30"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.10"
+          }
+        },
+        {
+          "group": "com.android.tools.build",
+          "module": "gradle-api",
+          "version": {
+            "requires": "7.0.0"
+          }
+        },
+        {
+          "group": "com.android.tools.build",
+          "module": "gradle",
+          "version": {
+            "requires": "7.0.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.30"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "classAnalysis-1.0.0.jar",
+          "url": "classAnalysis-1.0.0.jar",
+          "size": 249881,
+          "sha512": "11f3423d01294d4661424a4ca4ca027938ed67a50bc1ccc578952e1b6e1582ed8086f8b70bf7d95c51bf8c056f079c95ea79f1937cf01bda80cae3e5fb2482ad",
+          "sha256": "81e43c09f7e61679da8b269acf7ae72354b5914d1f9db9bbd5fd4a12283507b3",
+          "sha1": "c15df6fd6fd3264bd9c632577ba3c248052112e1",
+          "md5": "b62a98ed607c537031de021adc8526b1"
+        }
+      ]
+    }
+  ]
+}
