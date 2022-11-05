@@ -52,11 +52,11 @@
         {
           "name": "classAnalysis-1.0.0.jar",
           "url": "classAnalysis-1.0.0.jar",
-          "size": 249881,
-          "sha512": "11f3423d01294d4661424a4ca4ca027938ed67a50bc1ccc578952e1b6e1582ed8086f8b70bf7d95c51bf8c056f079c95ea79f1937cf01bda80cae3e5fb2482ad",
-          "sha256": "81e43c09f7e61679da8b269acf7ae72354b5914d1f9db9bbd5fd4a12283507b3",
-          "sha1": "c15df6fd6fd3264bd9c632577ba3c248052112e1",
-          "md5": "b62a98ed607c537031de021adc8526b1"
+          "size": 249937,
+          "sha512": "b1fac123cfcb3970ddb5d0ab33ee50b5e53ca6b3c18cf2870586f5038990ba6d7c93ebd60ae627dc7867e3a5a94eeacbfcc8dbf2eeb57b882d01c9ad89a0c7a9",
+          "sha256": "872da44950e01cb7c883b8759025cf059b74d10fb7e2ca5c1e132210168764df",
+          "sha1": "f790b1e9597c4b58764b1c5a81e25d2abc7e31c3",
+          "md5": "f263d15a6cfce9171db9d5e3276f00f5"
         }
       ]
     },
@@ -112,11 +112,11 @@
         {
           "name": "classAnalysis-1.0.0.jar",
           "url": "classAnalysis-1.0.0.jar",
-          "size": 249881,
-          "sha512": "11f3423d01294d4661424a4ca4ca027938ed67a50bc1ccc578952e1b6e1582ed8086f8b70bf7d95c51bf8c056f079c95ea79f1937cf01bda80cae3e5fb2482ad",
-          "sha256": "81e43c09f7e61679da8b269acf7ae72354b5914d1f9db9bbd5fd4a12283507b3",
-          "sha1": "c15df6fd6fd3264bd9c632577ba3c248052112e1",
-          "md5": "b62a98ed607c537031de021adc8526b1"
+          "size": 249937,
+          "sha512": "b1fac123cfcb3970ddb5d0ab33ee50b5e53ca6b3c18cf2870586f5038990ba6d7c93ebd60ae627dc7867e3a5a94eeacbfcc8dbf2eeb57b882d01c9ad89a0c7a9",
+          "sha256": "872da44950e01cb7c883b8759025cf059b74d10fb7e2ca5c1e132210168764df",
+          "sha1": "f790b1e9597c4b58764b1c5a81e25d2abc7e31c3",
+          "md5": "f263d15a6cfce9171db9d5e3276f00f5"
         }
       ]
     }
