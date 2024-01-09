@@ -52,11 +52,11 @@
         {
           "name": "depCheckPlugin-1.0.0.jar",
           "url": "depCheckPlugin-1.0.0.jar",
-          "size": 33075,
-          "sha512": "af91d249483c4d60b7cf2b11a075a54a764c045e28041ad88d5f42fb42c14b5b66e7a09c9fd76dd4b29d5980e1aed02c02193e2e5ffd6cb62cbcb7398c40c012",
-          "sha256": "be82953cbdb4deb2795733c582fd62c62513682e541c78b12c7e34001cd612a0",
-          "sha1": "329b9a7fcbfe148f3a09e56f91eed20f035f9110",
-          "md5": "6dc73a77caec210c2f357a273b760730"
+          "size": 33138,
+          "sha512": "32ff5ce6b661ffc72e93db59ecbb35d5d90fc58051625d73a1c8c00bf4cbeeb03537ac34554d61149b749973fd32758317d220b0de55f405154d16ee6d7d685d",
+          "sha256": "2831f0bc7ca43bb3d1b63fc59bfa576dcfca4566b07f9edc0ad98d1968a6256b",
+          "sha1": "9a60547f8778409113fe784d2eb73ef266150687",
+          "md5": "1b8c59addd8851bb46d4aca7de9fc5d8"
         }
       ]
     },
@@ -126,11 +126,11 @@
         {
           "name": "depCheckPlugin-1.0.0.jar",
           "url": "depCheckPlugin-1.0.0.jar",
-          "size": 33075,
-          "sha512": "af91d249483c4d60b7cf2b11a075a54a764c045e28041ad88d5f42fb42c14b5b66e7a09c9fd76dd4b29d5980e1aed02c02193e2e5ffd6cb62cbcb7398c40c012",
-          "sha256": "be82953cbdb4deb2795733c582fd62c62513682e541c78b12c7e34001cd612a0",
-          "sha1": "329b9a7fcbfe148f3a09e56f91eed20f035f9110",
-          "md5": "6dc73a77caec210c2f357a273b760730"
+          "size": 33138,
+          "sha512": "32ff5ce6b661ffc72e93db59ecbb35d5d90fc58051625d73a1c8c00bf4cbeeb03537ac34554d61149b749973fd32758317d220b0de55f405154d16ee6d7d685d",
+          "sha256": "2831f0bc7ca43bb3d1b63fc59bfa576dcfca4566b07f9edc0ad98d1968a6256b",
+          "sha1": "9a60547f8778409113fe784d2eb73ef266150687",
+          "md5": "1b8c59addd8851bb46d4aca7de9fc5d8"
         }
       ]
     }
