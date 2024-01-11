@@ -1,0 +1,96 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.MRwangqi",
+    "module": "privacy-lint",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "privacy-lint-1.0.0.aar",
+          "url": "privacy-lint-1.0.0.aar",
+          "size": 10619,
+          "sha512": "f7b0e9738ca1acf7761f9fadfec21f81e125ed2da0d2fdfe29cb5616249a606089a4c6bdd7d5ec19fa5ead05ed421a313c4b304e2eecafbd759844166c93d7ba",
+          "sha256": "4480a35d618212f1e4feaedf804e72932a68282f9d18b38855052f0ab8bf1c82",
+          "sha1": "2aefa85c53c9294df41e2de54648d40b9dedcfa4",
+          "md5": "e9ba3d9d6f9be788efa5183fc64d385a"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "privacy-lint-1.0.0.aar",
+          "url": "privacy-lint-1.0.0.aar",
+          "size": 10619,
+          "sha512": "f7b0e9738ca1acf7761f9fadfec21f81e125ed2da0d2fdfe29cb5616249a606089a4c6bdd7d5ec19fa5ead05ed421a313c4b304e2eecafbd759844166c93d7ba",
+          "sha256": "4480a35d618212f1e4feaedf804e72932a68282f9d18b38855052f0ab8bf1c82",
+          "sha1": "2aefa85c53c9294df41e2de54648d40b9dedcfa4",
+          "md5": "e9ba3d9d6f9be788efa5183fc64d385a"
+        }
+      ]
+    },
+    {
+      "name": "releaseSourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "files": [
+        {
+          "name": "privacy-lint-1.0.0-sources.jar",
+          "url": "privacy-lint-1.0.0-sources.jar",
+          "size": 683,
+          "sha512": "0681ed977f433f45fc9a792b57e37bd6b3f3964ec2cf9dee2e54a3b4a7574babff846e7f358bb19ae5ba8d618f57445b087a63dc9ef41e5862a75c920cb784f9",
+          "sha256": "9eb4c74968cdbb8a226d4cb0b306b38e9f590c5195ed252daaedf8e28788e261",
+          "sha1": "2a5fddab155fa4188d539289530486c48351a9ca",
+          "md5": "af98f344c688269f4988ac097de1fca5"
+        }
+      ]
+    }
+  ]
+}
